@@ -1,2 +1,2 @@
 -- Add your SQL here
-SELECT * FROM Employee AS "Sales Associate";
+SELECT NAME FROM Employee AS "Sales Associate";
